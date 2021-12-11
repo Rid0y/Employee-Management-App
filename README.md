@@ -1,6 +1,7 @@
 # Employee Management App
 
 This is a **Java** based application developed in android studio that incorporates SQLite Database.
+
 ![image](https://user-images.githubusercontent.com/89995670/145681532-71dc1330-f4b5-4b18-9888-8ee0b47c5008.png)
 
 # Purpose of App
