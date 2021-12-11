@@ -2,7 +2,7 @@
 
 This is a **Java** based application developed in android studio that incorporates SQLite Database.
 
-![image](https://user-images.githubusercontent.com/89995670/145681532-71dc1330-f4b5-4b18-9888-8ee0b47c5008.png) ![image](https://user-images.githubusercontent.com/89995670/145681553-9a265262-c756-4afb-922f-ae2dc50f98ba.png)
+![image](https://user-images.githubusercontent.com/89995670/145681532-71dc1330-f4b5-4b18-9888-8ee0b47c5008.png) ![image](https://user-images.githubusercontent.com/89995670/145681577-3f0d2d64-f841-4a71-b0d1-a546a7747e88.png)
 
 
 # Purpose of App
